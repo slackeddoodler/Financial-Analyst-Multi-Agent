@@ -98,6 +98,13 @@ Your system includes 3 MCP tools:
 pip install 'crewai[tools]' yfinance matplotlib fastmcp
 ```
 
+### Clone/Download the Repository
+
+```
+git clone https://github.com/slackeddoodler/Financial-Analyst-Multi-Agent.git
+cd Financial-Analyst-Multi-Agent
+```
+
 ### **Run the MCP server**
 
 ```
